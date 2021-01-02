@@ -1,4 +1,4 @@
-# photography_ux
+# Photography UX
 
 A new Flutter application.
 
